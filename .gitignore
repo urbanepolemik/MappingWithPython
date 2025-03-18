@@ -2,3 +2,5 @@
 /notebooks/cache
 /data/gpx
 notebooks/.DS_Store
+.idea
+/data/input_files
